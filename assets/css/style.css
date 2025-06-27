@@ -1,19 +1,41 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
-
-/* CSS Variables */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');/* CSS Variables */
 :root {
     --primary-font: "Sourcesans3", sans-serif;
     --secondary-font: "Montserrat", sans-serif;
-    --primary-color: #007BFF; /* electric blue */
-    --secondary-color: #00D2B5; /* aqua green */
+    --primary-color: #058095; /* blue lagoon */
+    --secondary-color: #D8F0F0; /* swans down */
     --highlight-color: #FF6B6B; /* sunset coral */
     --light-highlight-color: #FFE8E0; /* peach tint */
 }
 
+/* Global styles */
+
+h1 {
+   font-size: 60px;
+   color: var(--primary-color);
+}
+
+/* Navbar */
+
+#navbar {
+    font-family: var(--secondary-font);
+    font-size: 20px;
+}
+
+.logo {
+    width: 60px;
+    border-radius: 50px;
+}
+
+#contact {
+    background-color: #D8F0F0;
+    padding-bottom: 3rem;
+}
+
 /* grid visualisation CSS for testing */
 
-.container,
+/* .container,
 row {
     border: 2px solid black;
 }
@@ -22,4 +44,4 @@ row {
     border: 2px solid white;
     background-color: lightgrey;
 }
-
+*/
