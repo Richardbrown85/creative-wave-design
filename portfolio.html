@@ -15,32 +15,59 @@
 </head>
 
 <body class="d-flex flex-column min-vh-100">
+    
     <!-- Navigation -->
-    <div>Navigation</div>
+    <nav id="navbar" class="navbar navbar-expand-lg">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+                <img src="assets/images/Untitled.webp" alt="Creative Wave Design logo" class="logo">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link"  href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="gallery.html">Gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="portfolio.html">Portfolio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Enquiry</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
 
 
     <!-- Header -->
     <header class="container">
-        <div class="row">
-            <div class="col-12 col-xl-6">Creative Wave Design portfolio</div>
+        <div class="col-12 col-xl-12 text-center text-xl-start">
+            <h1 class="display-4 text-center">Portfolio</h1>
         </div>
     </header>
 
     <!-- Main element to hold all key sections of the home page. it is not part of the grid structure -->
     <main>
-        <!-- Portfolio | Gallery | inquiry -->
+        <!-- Portfolio | Gallery | Enquiry -->
         <section class="container">
             <div class="row">
                 <div class="col-12 col-md-6 col-xl-3">Portfolio link</div>
                 <div class="col-12 col-md-6 col-xl-3">Gallery link</div>
-                <div class="col-12 col-md-6 col-xl-3">Inquiry link</div>
+                <div class="col-12 col-md-6 col-xl-3">Enquiry link</div>
             </div>
         </section>
     </main>
 
     <!-- Footer / contact section -->
     <!-- mt-auto added to push footer to the bottom of the page -->
-    <footer class="mt-auto">
+    <footer id="contact" class="mt-auto">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12">Contact section heading</div>
