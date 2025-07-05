@@ -1,19 +1,26 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');/* CSS Variables */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+/* CSS Variables */
 :root {
+    --header-font: "Quicksand", sans-serif;
     --primary-font: "Sourcesans3", sans-serif;
     --secondary-font: "Montserrat", sans-serif;
     --primary-color: #058095; /* blue lagoon */
     --secondary-color: #D8F0F0; /* swans down */
-    --highlight-color: #FF6B6B; /* sunset coral */
-    --light-highlight-color: #FFE8E0; /* peach tint */
+    --highlight-color: #26BFCC; /* scooter */
+    --light-highlight-color: #8BD3D9; /* morning glory */
 }
 
 /* Global styles */
 
 h1 {
-   font-size: 60px;
+   font-family: var(--header-font);
    color: var(--primary-color);
+}
+
+h1 {
+    text-transform: uppercase;
 }
 
 /* Navbar */
@@ -21,12 +28,27 @@ h1 {
 #navbar {
     font-family: var(--secondary-font);
     font-size: 20px;
+    
 }
 
 .logo {
     width: 60px;
     border-radius: 50px;
 }
+
+/* Header */
+
+#header .lead {
+    font-family: var(--header-font);
+    color: var(--highlight-color);
+    font-weight: 700;
+}
+
+.display-4 {
+    font-weight: 700;
+}
+
+/* Footer / contact */
 
 #contact {
     background-color: #D8F0F0;
