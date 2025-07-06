@@ -18,6 +18,7 @@
 #background {
     background-image:url(../images/background-image.webp);
     background-size: cover;
+    background-attachment: fixed;
 }
         
 
@@ -39,7 +40,7 @@ h1 {
 }
 
 .logo {
-    width: 50px;
+    width: 60px;
 }
 
 /* Header */
