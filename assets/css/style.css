@@ -15,6 +15,12 @@
 
 /* Global styles */
 
+#background {
+    background-image:url(../images/background-image.webp);
+    background-size: cover;
+}
+        
+
 h1 {
    font-family: var(--header-font);
    color: var(--primary-color);
@@ -28,13 +34,12 @@ h1 {
 
 #navbar {
     font-family: var(--secondary-font);
-    font-size: 20px;
+    background-color: var(--secondary-color);
     
 }
 
 .logo {
-    width: 100px;
-    border-radius: 50px;
+    width: 50px;
 }
 
 /* Header */
