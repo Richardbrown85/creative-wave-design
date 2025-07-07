@@ -22,12 +22,14 @@
 }
         
 
-h1 {
+h1,
+h2 {
    font-family: var(--header-font);
    color: var(--primary-color);
 }
 
-h1 {
+h1,
+h2 {
     text-transform: uppercase;
 }
 
@@ -61,8 +63,6 @@ h1 {
     background-color: #D8F0F0;
     padding-bottom: 3rem;
 }
-
-
 
 /* grid visualisation CSS for testing */
 
