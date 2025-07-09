@@ -57,10 +57,18 @@ h4 {
 /* Header */
 
 
-/* Main content */
+/* Main element */
 
 .icon-link {
     width: 140px;
+}
+
+/* Enquiry form */
+
+#enquiry-form {
+    border-style: solid;
+    border-radius: 20px;
+    border-color: var(--light-highlight-color);
 }
 
 /* Footer / contact */
