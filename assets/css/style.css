@@ -23,10 +23,19 @@
         
 
 h1,
-h2,
 h4 {
    font-family: var(--header-font);
    color: var(--primary-color);
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+   font-family: var(--secondary-font);
+   color: var(--highlight-color);
+   font-weight: 50px;
 }
 
 h1,
@@ -39,7 +48,6 @@ h4 {
 #navbar {
     font-family: var(--secondary-font);
     background-color: var(--secondary-color);
-    
 }
 
 .logo {
@@ -49,13 +57,7 @@ h4 {
 /* Header */
 
 
-.display-2 {
-    font-weight: 700;
-}
-
-.display-8 {
-    color: var(--highlight-color);
-}
+/* Main content */
 
 .icon-link {
     width: 140px;
