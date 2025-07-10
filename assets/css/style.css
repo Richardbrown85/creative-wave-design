@@ -75,6 +75,13 @@ h4 {
     width: 140px;
 }
 
+/* gallery */
+
+.image-style {
+    border: solid 0.5px;
+    border-color: var(--secondary-color);
+    border-radius: 5px;
+}
 
 /* Enquiry form */
 
