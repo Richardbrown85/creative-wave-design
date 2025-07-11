@@ -23,16 +23,10 @@
         
 
 h1,
-h4 {
-   font-family: var(--secondary-font);
-   color: var(--primary-color);
-}
-
 h2,
 h4 {
    font-family: var(--secondary-font);
    color: var(--primary-color);
-   font-weight: 50px;
 }
 
 h5 {
@@ -40,6 +34,15 @@ h5 {
     color: var(--highlight-color);
 }
 
+.sub-heading-color {
+    color: var(--primary-color);
+}
+
+.section {
+    padding-top: 5rem;
+}
+
+/* buttons */
 
 .custom-button-filled {
     border: 2px solid var(--primary-color);
@@ -63,8 +66,6 @@ h5 {
 .logo {
     width: 60px;
 }
-
-/* Header */
 
 
 /* Main element */
