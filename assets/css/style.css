@@ -1,11 +1,11 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Over+the+Rainbow&display=swap');
 
 /* CSS Variables */
 :root {
-    --header-font: "Quicksand", sans-serif;
-    --primary-font: "Sourcesans3", sans-serif;
-    --secondary-font: "Montserrat", sans-serif;
+    --primary-font: "Montserrat", sans-serif;
+    --secondary-font: "Over the Rainbow", sans-serif;
     --primary-color: #058095; /* blue lagoon */
     --secondary-color: #D8F0F0; /* swans down */
     --highlight-color: #26BFCC; /* scooter */
@@ -24,12 +24,8 @@
 
 h1,
 h4 {
-   font-family: var(--header-font);
+   font-family: var(--secondary-font);
    color: var(--primary-color);
-}
-
-h1 {
-    font-weight: 700;
 }
 
 h2,
@@ -44,9 +40,6 @@ h5 {
     color: var(--highlight-color);
 }
 
-h1 {
-    text-transform: uppercase;
-}
 
 .custom-button-filled {
     border: 2px solid var(--primary-color);
@@ -63,7 +56,7 @@ h1 {
 /* Navbar */
 
 #navbar {
-    font-family: var(--secondary-font);
+    font-family: var(--primary-font);
     background-color: var(--secondary-color);
 }
 
