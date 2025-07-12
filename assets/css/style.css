@@ -46,7 +46,7 @@ p {
     padding-top: 5rem;
 }
 
-/* buttons */
+/* Buttons */
 
 .custom-button-filled {
     border: 2px solid var(--primary-color);
@@ -71,14 +71,7 @@ p {
     width: 60px;
 }
 
-
-/* Main element */
-
-.icon-link {
-    width: 140px;
-}
-
-/* gallery */
+/* Gallery */
 
 .image-style {
     border: solid 0.5px;
@@ -86,20 +79,12 @@ p {
     border-radius: 200px;
 }
 
-/* Enquiry form */
-
-#enquiry-form {
-    border: solid 0.5px;
-    border-radius: 20px;
-    border-color: var(--light-highlight-color);
-    background-color: var(--secondary-color);
-}
 
 /* Footer / contact */
 
 #contact {
     background-color: #D8F0F0;
-    padding-bottom: 3rem;
+    padding: 1rem;
 }
 
 #contact .social-links i {
@@ -107,17 +92,3 @@ p {
     font-size: 2rem;
 }
 
-
-
-/* grid visualisation CSS for testing */
-
-/* .container,
-row {
-    border: 2px solid black;
-}
-
-.col-12 {
-    border: 2px solid white;
-    background-color: lightgrey;
-}
-*/
