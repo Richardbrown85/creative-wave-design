@@ -15,7 +15,7 @@
 
 /* Global styles */
 
-#background {
+body {
     background-image:url(../images/background-image.webp);
     background-size: cover;
     background-attachment: fixed;
