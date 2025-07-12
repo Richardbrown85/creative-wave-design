@@ -70,13 +70,12 @@ design. They are as followed and links provided.
 
 # Wireframe Mock ups:
 
-* Richard Brown landing page.
-* Creative Wave Design and Web Development clickable links logos.
+* Creative wave design wireframes
 
 ## Creative Wave Design page
 
 * Home
-* Portfolio
+* Projects
 * Gallery
 * Enquiry form/contact
 
@@ -84,18 +83,18 @@ design. They are as followed and links provided.
 
 1. Primary Font (Logo & Headers):
 
-### Montserrat Bold
+### Montserrat
 
 * Style: Modern, geometric sans-serif
-* Use: Logo, headings, tagline
+* Use: Paragraphs, body of text
 * Why: Strong presence, creative feel, and excellent readability
 
 2. Secondary Font (Body & Details):
 
-### Source Sans pro Regular
+### Over the Rainbow
 
-* Style: Clean, humanist sans-serif
-* Use: Paragraphs, captions, small text
+* Style: Clean, calligraphy handwritten
+* Use: Headings, captions, taglines
 * Why: Very readable, professional, and pairs beautifully with Montseerat.
 
 ## Web-friendly and Accessible:
@@ -105,18 +104,17 @@ design. They are as followed and links provided.
 * Available for Google Fonts (fast CDN, easy integration)
 * Highly readable at all sizes
 
-Montserrat Bold grabs attention for headlines and banners.
-Source Sans Pro is very legible on long paragraphs and small interface elements.
+Over the Rainbow grabs attention for headings and taglines.
+Montserrat is very legible on long paragraphs and small interface elements.
 
 ## Color Scheme : "Vibrant Ocean"
 
 A high-contrast palette inspired by waves and creativity
 
-* Primary Colour - Electric blue - #007BFF
-* Secondary Colour - Aqua green - #00D2B5
-* Dark Background - Charcoal Black - #1B1B1B
-* Light Background - Snow White - #FFFFFF
-* Highlight - Sunset Coral - #FF6B6B
+* Primary-color: #058095; Blue lagoon
+* Secondary-color: #D8F0F0; Swans down
+* Highlight-color: #26BFCC; Scooter
+* Light-highlight-color: #8BD3D9; Morning glory 
 
 ## Where to use
 
