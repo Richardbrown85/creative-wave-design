@@ -93,3 +93,15 @@ p {
     font-size: 2rem;
 }
 
+/* Media queries */
+
+/* Small devices (mobile phones, 576px and down) */
+
+@media screen and (max-width: 576px) {
+    body{
+    background-image:url(../images/background-image.webp);
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+}
+
