@@ -19,7 +19,7 @@ body {
     background-image:url(../images/background-image.webp);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: contain;
+    background-size: cover;
     background-attachment: fixed;
 }
         
