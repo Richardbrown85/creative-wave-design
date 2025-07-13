@@ -1,9 +1,13 @@
 ﻿# Creative Wave Design website
 
+## Devices mock up
+
+![Devices mock up](<README images/Final mock up.webp>)
+
 ## About the website
 
-A website for graphic design company called Creative Wave Design based in the U.K.
-The website will feature a portfolio of work, gallery of work and an enquiry form for logo or an branding job.
+A website design for graphic design company called Creative Wave Design based in the U.K.
+The website will feature a portfolio of work, gallery of work and an enquiry form for logo or visual branding job.
 The goal of this website is to showcase work but the primary goal of the website is to create leads on potential clients.
 
 ## The business goals
@@ -59,7 +63,7 @@ and timeline before committing to work with Creative Wave Design.
 * Form must validate all required fields before submitting.
 * Success page with relevant information on such as response time and option to go back to homepage.
 
-# Reaserch before starting wireframe mock ups
+# Research before starting wireframe mock ups
 
 I conducted a little bit of research on other websites for graphic designer before starting my own mock up of my 
 design. They are as followed and links provided.
@@ -69,6 +73,8 @@ design. They are as followed and links provided.
 * Abi Connick
 
 # Wireframe Mock ups:
+
+
 
 * Creative wave design wireframes
 
@@ -117,6 +123,7 @@ A high-contrast palette inspired by waves and creativity
 * Light-highlight-color: #8BD3D9; Morning glory 
 
 ## Where to use
+
 
 
 
