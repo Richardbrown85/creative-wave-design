@@ -98,7 +98,7 @@ p {
 /* Small devices (mobile phones, 576px and down) */
 
 @media screen and (max-width: 576px) {
-    body{
+    body {
     background-image:url(../images/background-image.webp);
     background-size: cover;
     background-repeat: repeat-y;
