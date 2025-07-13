@@ -92,4 +92,13 @@ p {
     font-size: 2rem;
 }
 
+/* Media query to hide background image below 425px */
+
+@media screen and (max-width: 576px) {
+body {
+    background-image: none;
+}
+}
+
+
 
