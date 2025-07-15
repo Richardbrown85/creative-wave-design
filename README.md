@@ -1,23 +1,25 @@
 ﻿# Creative Wave Design website
 
-## Devices mock up
+### Devices mock up
+
+[View deployed site here](https://richardbrown85.github.io/creative-wave-design-website/)
 
 ![Devices mock up](<README images/Final mock up.webp>)
 
-## About the website
+### About the website
 
 A website design for graphic design company called Creative Wave Design based in the U.K.
-The website will feature a portfolio of work, gallery of work and an enquiry form for logo or visual branding job.
+The website will feature projects of work, gallery of work and an enquiry form for logo or visual branding job.
 The goal of this website is to showcase work but the primary goal of the website is to create leads on potential clients.
 
-## The business goals
+### The business goals
 
 * Build brand awareness.
-* Provide high quality examples of work in the portfolio and gallery.
+* Provide high quality examples of work on a projects page and gallery.
 * Create more leads for potential clients.
 * Eyecatching and engaging content to keep potential clients on the site and turn them into leads.
 
-## The client goals
+### The client goals
 
 * Clear and easy to fill out enquiry form.
 * Search for high quailty images of work.
@@ -25,7 +27,7 @@ The goal of this website is to showcase work but the primary goal of the website
 
 # UX
 
-## The ideal client
+### The ideal client
 
 * Business owner (small or large).
 * Would like a new logo or branding designing for their business.
@@ -34,17 +36,17 @@ The goal of this website is to showcase work but the primary goal of the website
 ## User stories
 
 ### User story 1:
-As a potential client I want to view Creative Wave Design portfolio of pervious work so that I can see their design style.
+As a potential client I want to view Creative Wave Design projects of pervious work so that I can see their design style.
 
 ### Acceptance Criteria
 
-* Portfolio displays logos and branding work by business type (childminders, contracters/builders, community centres)
-* Each portfolio section shows logo, process, concept and brief project description of work.
+* Portfolio displays logos and branding work by business type (Shop, contracters/builders, community centres)
+* Each project section shows logo, concept and brief project description of work.
 
 ### Development Tasks
 
-* Design responsive portfolio layout.
-* Make it easily accessible with navigation between each portfolio section.
+* Design responsive project layout.
+* Make it easily accessible with navigation between each project section.
 
 ### User story 2:
 
@@ -63,37 +65,46 @@ and timeline before committing to work with Creative Wave Design.
 * Form must validate all required fields before submitting.
 * Success page with relevant information on such as response time and option to go back to homepage.
 
-# Research before starting wireframe mock ups
+## Research before starting wireframe mock ups
 
 I conducted a little bit of research on other websites for graphic designer before starting my own mock up of my 
 design. They are as followed and links provided.
 
-* Seeside Studios
-* Made by James
-* Abi Connick
+* Seeside Studios  https://www.seesidestudio.com/
+* Made by James  https://themadebyjames.com/
+* Abi Connick  https://www.abiconnick.co.uk/
 
-# Creative Wave Design page using Balsamiq for wireframes
+## Creative Wave Design wireframe mockups using Balsamiq
 
-## Homepage
+### Homepage wireframe
 ![Homepage wireframe](<README images/Homepage wireframe.png>)
 
-## Projects page
+### Projects page wireframe
 ![Projects page wireframe](<README images/Projects page wireframe.png>)
 
-## Gallery page
+### Gallery page wireframe
 ![Gallery page wireframe](<README images/Gallery page wireframe.png>)
 
-## Enquiry form page
+### Enquiry form page wireframe
 ![Enquiry page wireframe](<README images/Enquiry form page wireframe.png>)
 
-## Success page
+### Success page wireframe
 ![Success page wireframe](<README images/Success page wireframe.png>)
 
-# Typography and Colour Palette
+## Features
+
+Every page features a responsive navigation bar with the creative wave deisgn logo in the top left corner which acts as a homepage link as well.
+Full desktop view has an enquiry button that links to the enquiry form page. All pages has a footer with social media links for Instagram and Facebook and copyright information.
+
+Every page is styled in the same colour scheme so it creates a consistent look.
+
+## Typography and Colour Palette
+
+### Typography
 
 1. Primary Font (Paragragh and text):
 
-### Montserrat
+#### Montserrat
 
 * Style: Modern, geometric sans-serif
 * Use: Paragraphs, body of text
@@ -101,13 +112,13 @@ design. They are as followed and links provided.
 
 2. Secondary Font (Headers):
 
-### Over the Rainbow
+#### Over the Rainbow
 
 * Style: Clean, calligraphy handwritten
 * Use: Headings, captions, taglines
 * Why: Very readable, professional, and pairs beautifully with Montseerat.
 
-## Web-friendly and Accessible:
+### Web-friendly and Accessible:
 
 * Optimized for screens
 * Supported across all modern browsers
@@ -117,7 +128,7 @@ design. They are as followed and links provided.
 Over the Rainbow grabs attention for headings and taglines.
 Montserrat is very legible on long paragraphs and small interface elements.
 
-## Color Scheme : "Vibrant Ocean"
+### Color Palette/Scheme : "Vibrant Ocean"
 
 A high-contrast palette inspired by waves and creativity
 
@@ -125,6 +136,26 @@ A high-contrast palette inspired by waves and creativity
 * Secondary-color: #D8F0F0; Swans down
 * Highlight-color: #26BFCC; Scooter
 * Light-highlight-color: #8BD3D9; Morning glory 
+
+## Technologies Used
+
+- This project uses HTML and CSS programming languages.
+- VSCode - I used VScode for my IDE while building the website.
+- Bootstrap CDN - The project uses Bootstrap V5.3 a grid system was used to structure the website and make it responsive easily and Bootstrap   CSS 5 which is used on the homepage.
+- Google fonts - The project uses google fonts to import the selection typography for the website.
+- Font Awesome - The project uses font Awesome for social media icons (instagram and facebook).
+- Favicon - Favicon link has been used to place the creative wave design in the navbar.
+
+## Testing
+
+
+
+
+  
+  
+  
+
+
 
 
 
