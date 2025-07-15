@@ -72,22 +72,26 @@ design. They are as followed and links provided.
 * Made by James
 * Abi Connick
 
-# Wireframe Mock ups:
+# Creative Wave Design page using Balsamiq for wireframes
 
+## Homepage
+![Homepage wireframe](<README images/Homepage wireframe.png>)
 
+## Projects page
+![Projects page wireframe](<README images/Projects page wireframe.png>)
 
-* Creative wave design wireframes
+## Gallery page
+![Gallery page wireframe](<README images/Gallery page wireframe.png>)
 
-## Creative Wave Design page
+## Enquiry form page
+![Enquiry page wireframe](<README images/Enquiry form page wireframe.png>)
 
-* Home
-* Projects
-* Gallery
-* Enquiry form/contact
+## Success page
+![Success page wireframe](<README images/Success page wireframe.png>)
 
-## Fonts
+# Typography and Colour Palette
 
-1. Primary Font (Logo & Headers):
+1. Primary Font (Paragragh and text):
 
 ### Montserrat
 
@@ -95,7 +99,7 @@ design. They are as followed and links provided.
 * Use: Paragraphs, body of text
 * Why: Strong presence, creative feel, and excellent readability
 
-2. Secondary Font (Body & Details):
+2. Secondary Font (Headers):
 
 ### Over the Rainbow
 
@@ -122,7 +126,6 @@ A high-contrast palette inspired by waves and creativity
 * Highlight-color: #26BFCC; Scooter
 * Light-highlight-color: #8BD3D9; Morning glory 
 
-## Where to use
 
 
 
