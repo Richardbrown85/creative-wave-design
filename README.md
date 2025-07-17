@@ -138,6 +138,7 @@ A high-contrast palette inspired by waves and creativity
 * Light-highlight-color: #8BD3D9; Morning glory
 
 
+
 ## Technologies Used
 
 - This project uses HTML and CSS programming languages.
@@ -171,7 +172,15 @@ Testing was conducted on the deployed site through github.
 #### Success page (success.html) - Desktop
 ![Lighthouse test success.html](<README images/Lighthouse-test-desktop-success.html.png>)
 
+### W3C HTML Validation
 
+#### Homepage (index.html) 
+
+![W3C Validation index html](<README images/HTML-Validation-on-index.html-error.png>)
+![W3C Validation index html](<README images/HTML-Validation-on-index.html-error-amended.png>)
+
+Error was amended by adding a closing element div so there wasn't an open element this means the footer tag could close.
+After seeing this error i debugged the other pages for the error and corrected them.
 
 
   
