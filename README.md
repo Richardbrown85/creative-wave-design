@@ -182,6 +182,16 @@ Testing was conducted on the deployed site through github.
 Error was amended by adding a closing element div so there wasn't an open element this means the footer tag could close.
 After seeing this error i debugged the other pages for the error and corrected them.
 
+#### Projects page (projects.html)
+
+
+### W3C CSS Validation
+
+#### Style.css (Custom CSS)
+
+![W3C CSS Validation style.css](<README images/W3C-CSS-Validation-no-error-found.png>)
+
+
 
   
   
