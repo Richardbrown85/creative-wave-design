@@ -76,8 +76,8 @@ design. They are as followed and links provided.
 
 ## Creative Wave Design wireframe mockups using Balsamiq
 
-### Homepage wireframe
-![Homepage wireframe](<README images/Homepage-wireframe.png>)
+### Home page wireframe
+![Home page wireframe](<README images/Homepage-wireframe.png>)
 
 ### Projects page wireframe
 ![Projects page wireframe](<README images/Projects-page-wireframe.png>)
@@ -94,9 +94,15 @@ design. They are as followed and links provided.
 ## Features
 
 Every page features a responsive navigation bar with the creative wave deisgn logo in the top left corner which acts as a homepage link as well.
-Full desktop view has an enquiry button that links to the enquiry form page. All pages has a footer with social media links for Instagram and Facebook and copyright information.
+Full desktop view has an enquiry button that links to the enquiry form page. All pages have a footer with social media links for Instagram and Facebook and copyright information.
 
-Every page is styled in the same colour scheme so it creates a consistent look.
+Every page is styled in the same colour scheme so it creates a consistent look. Every page in desktop view has a full screen background image of
+the logo for creative wave design repeated in a symmetric pattern with the opaciy set a 60% this was created in Abode illustrator. This is also fixed so the website content scrolls over it. On smaller screens this is set to none with a media query to have a background colour instead
+#F9F9F9. 
+
+### Home
+
+Home page includes a header in over the rainbow (font) with logo for creative wave design
 
 ## Typography and Colour Palette
 
@@ -147,6 +153,7 @@ A high-contrast palette inspired by waves and creativity
 - Google fonts - The project uses google fonts to import the selection typography for the website.
 - Font Awesome - The project uses font Awesome for social media icons (instagram and facebook).
 - Favicon - Favicon link has been used to place the creative wave design in the navbar.
+- Adobe illustrator and photoshop - Used for image creating, rendering and sizing.
 
 ## Testing
 
