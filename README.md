@@ -135,7 +135,8 @@ A high-contrast palette inspired by waves and creativity
 * Primary-color: #058095; Blue lagoon
 * Secondary-color: #D8F0F0; Swans down
 * Highlight-color: #26BFCC; Scooter
-* Light-highlight-color: #8BD3D9; Morning glory 
+* Light-highlight-color: #8BD3D9; Morning glory
+
 
 ## Technologies Used
 
@@ -159,12 +160,16 @@ Testing was conducted on the deployed site through github.
 
 ### Lighthouse (Google Chrome DevTools)
 
-#### Homepage
-
-
-
-#### Projects page
-
+#### Homepage (index.html) - Desktop
+![Lighthouse test index.html](<README images/Lighthouse-test-desktop-index.html.png>)
+#### Projects page (projects.html) - Desktop
+![Lighthouse test projects.html](<README images/Lighthouse-test-desktop-projects.html.png>)
+#### Gallery page (gallery.html) - Desktop
+![Lighthouse test gallery.html](<README images/Lighthouse-test-desktop-gallery.html.png>)
+#### Enquiry page (enquiry.html) - Desktop
+![Lighthouse test enquiry.html](<README images/Lighthouse-test-desktop-enquiry.html.png>)
+#### Success page (success.html) - Desktop
+![Lighthouse test success.html](<README images/Lighthouse-test-desktop-success.html.png>)
 
 
 
