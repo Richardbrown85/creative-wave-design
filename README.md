@@ -1,10 +1,10 @@
 ﻿# Creative Wave Design website
 
-### Devices mock up
-
 [View deployed site here](https://richardbrown85.github.io/creative-wave-design-website/)
 
-![Devices mock up](<README images/Final mock up.webp>)
+### Devices mock up
+
+![Devices mock up](<README images/Final-mock-up.webp>)
 
 ### About the website
 
@@ -77,19 +77,19 @@ design. They are as followed and links provided.
 ## Creative Wave Design wireframe mockups using Balsamiq
 
 ### Homepage wireframe
-![Homepage wireframe](<README images/Homepage wireframe.png>)
+![Homepage wireframe](<README images/Homepage-wireframe.png>)
 
 ### Projects page wireframe
-![Projects page wireframe](<README images/Projects page wireframe.png>)
+![Projects page wireframe](<README images/Projects-page-wireframe.png>)
 
 ### Gallery page wireframe
-![Gallery page wireframe](<README images/Gallery page wireframe.png>)
+![Gallery page wireframe](<README images/Gallery-page-wireframe.png>)
 
 ### Enquiry form page wireframe
-![Enquiry page wireframe](<README images/Enquiry form page wireframe.png>)
+![Enquiry page wireframe](<README images/Enquiry-form-page-wireframe.png>)
 
 ### Success page wireframe
-![Success page wireframe](<README images/Success page wireframe.png>)
+![Success page wireframe](<README images/Success-page-wireframe.png>)
 
 ## Features
 
@@ -147,6 +147,24 @@ A high-contrast palette inspired by waves and creativity
 - Favicon - Favicon link has been used to place the creative wave design in the navbar.
 
 ## Testing
+
+Testing was conducted on the deployed site through github.
+
+### Techologies used for testing
+
+- Google Chrome DevTools (Lighthouse)
+- W3C HTML Validation https://validator.w3.org/
+- W3C CSS Validation https://jigsaw.w3.org/css-validator/
+- Wave web accessibilty evaluation tool https://wave.webaim.org/
+
+### Lighthouse (Google Chrome DevTools)
+
+#### Homepage
+
+
+
+#### Projects page
+
 
 
 
