@@ -1,4 +1,4 @@
-﻿# Creative Wave Design website
+# Creative Wave Design website
 
 [View deployed site here](https://richardbrown85.github.io/creative-wave-design-website/)
 
@@ -103,7 +103,10 @@ the logo for creative wave design repeated in a symmetric pattern with the opaci
 ### Home
 
 Home page includes a header in over the rainbow (font) with logo for creative wave design
+Because this is a new start up graphic design studio the testimonials are first inline to read to 
+gain trust and confidence with new clients.
 
+After that you get examples of logo designs which then continues down to the footer for contact through social media.
 ## Typography and Colour Palette
 
 ### Typography
