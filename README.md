@@ -97,7 +97,7 @@ Every page features a responsive navigation bar with the creative wave deisgn lo
 Full desktop view has an enquiry button that links to the enquiry form page. All pages have a footer with social media links for Instagram and Facebook and copyright information.
 
 Every page is styled in the same colour scheme so it creates a consistent look. Every page in desktop view has a full screen background image of
-the logo for creative wave design repeated in a symmetric pattern with the opaciy set a 60% this was created in Abode illustrator. This is also fixed so the website content scrolls over it. On smaller screens this is set to none with a media query to have a background colour instead
+the logo for creative wave design repeated in a symmetric pattern with the opacity set a 60% this was created in Abode illustrator. This is also fixed so the website content scrolls over it. On smaller screens this is set to none with a media query to have a background colour instead
 #F9F9F9. 
 
 ### Home
