@@ -102,11 +102,30 @@ the logo for creative wave design repeated in a symmetric pattern with the opaci
 
 ### Home
 
-Home page includes a header in over the rainbow (font) with logo for creative wave design
+Home page includes a header in over the rainbow (font) with creative waves logo to the right handside in a different.
 Because this is a new start up graphic design studio the testimonials are first inline to read to 
 gain trust and confidence with new clients.
 
 After that you get examples of logo designs which then continues down to the footer for contact through social media.
+
+### Projects page
+
+The project page features three cards that present three main projects creative wave have worked on over the past six months. Each project card has a example of the logo design and a short explanation about the idea, concept and design to give potential clients an idea of the process in logo design and to help them understand it.
+
+### Galleryn page
+
+The gallery page displays logo designs, mock ups and real world photos of the logos. These are laid out in a very simple layout of circles to follow the flow of creative waves logo design.
+
+### Enquiry page
+
+The enquiry features a very simple form to fill in name, email, phone number, enquiry type - helps the designer for reason of enquiry,
+message - for the potential client to write a sort paragraph about their enquiry and then the sumbit button.
+
+### Success page
+
+The success page to primaily there to inform the user that their form has successfully be submitted and a response is to be expected.
+
+
 ## Typography and Colour Palette
 
 ### Typography
