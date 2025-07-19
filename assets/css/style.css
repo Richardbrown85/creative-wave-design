@@ -122,6 +122,10 @@ p {
     background-image: none;
     background-color: #f9f9f9;
     }
+/* Media query to put space between the first two testimonial cards for small devices */   
+    #testimonials .card {
+    margin-bottom: 30px;    
+    }
 }
 
 /* Media queries to make testimonials cards the same height for consistency across screens sizes */
@@ -129,7 +133,7 @@ p {
 /* Medium devices (tablets, 768px and up */
 @media screen and (min-width: 768px) {
     #testimonials .card-body {
-    min-height: 500px;    
+    min-height: 500px;
     }
 }
 
