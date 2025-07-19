@@ -84,9 +84,9 @@ p {
 /* Testimonials */
 
 #testimonials .card-body {
-    background-color:#f9f9f9;
-    border: solid 1px;
-    border-color: var(--secondary-color)
+    border-color: white;
+    background-color: white;
+    box-shadow: 0 5px 5px 1px var(--secondary-color);
 }
 
 /* Enquiry main/form */
@@ -113,13 +113,37 @@ p {
     font-size: 2rem;
 }
 
+/* Media queries */
 
 /* Media query to hide background image below 425px */
 
 @media screen and (max-width: 576px) {
-body {
+    body {
     background-image: none;
     background-color: #f9f9f9;
+    }
+}
+
+/* Media queries to make testimonials cards the same height for consistency across screens sizes */
+
+/* Medium devices (tablets, 768px and up */
+@media screen and (min-width: 768px) {
+    #testimonials .card-body {
+    min-height: 500px;    
+    }
+}
+
+/* Large devives (small laptops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #testimonials .card-body {
+    min-height: 350px;
+    }
+}
+
+/* XL devices (large laptops, 1200 px and up) */
+@media screen and (min-width: 1200px) {
+    #testimonials .card-body {
+    min-height: 260px;    
     }
 }
 
