@@ -44,7 +44,7 @@ p {
 }
 
 .section {
-    padding-top: 5rem;
+    padding-top: 5rem; /* prevent navbar overlap */
 }
 
 /* Buttons */
@@ -80,8 +80,25 @@ p {
     border-radius: 50%;
 }
 
-/* Testimonials
+/* Testimonials */
 
+#testimonials .card-body {
+    background-color:#f9f9f9;
+    border: solid 1px;
+    border-color: var(--secondary-color)
+}
+
+/* Enquiry main/form */
+
+#enquiry-main {
+    margin: 2rem; /* 1 rem equals 16px */
+}
+
+#enquiry {
+    box-shadow: 0 5px 5px 1px var(--secondary-color);
+    background-color: white;
+    padding-bottom: 1rem;
+}
 
 /* Footer / contact */
 
