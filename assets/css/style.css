@@ -77,17 +77,17 @@ p {
 .image-style {
     border: solid 2px;
     border-color: var(--secondary-color);
-    border-radius: 200px;
+    border-radius: 50%;
 }
 
-/* Testimonails
+/* Testimonials
 
 
 /* Footer / contact */
 
 #contact {
     background-color: #D8F0F0;
-    padding: 1rem;
+    padding-top: 1rem;
 }
 
 #contact .social-links i {

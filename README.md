@@ -100,7 +100,7 @@ Every page is styled in the same colour scheme so it creates a consistent look. 
 the logo for creative wave design repeated in a symmetric pattern with the opacity set a 60% this was created in Abode illustrator. This is also fixed so the website content scrolls over it. On smaller screens this is set to none with a media query to have a background colour instead
 #F9F9F9. 
 
-### Home
+#### Home
 
 Home page includes a header in over the rainbow (font) with creative waves logo to the right handside in a different.
 Because this is a new start up graphic design studio the testimonials are first inline to read to 
@@ -108,23 +108,21 @@ gain trust and confidence with new clients.
 
 After that you get examples of logo designs which then continues down to the footer for contact through social media.
 
-### Projects page
+#### Projects page
 
-The project page features three cards that present three main projects creative wave have worked on over the past six months. Each project card has a example of the logo design and a short explanation about the idea, concept and design to give potential clients an idea of the process in logo design and to help them understand it.
+The project page features three cards that present three main projects creative wave design have worked on over the past six months. Each project card has an example of the logo design and a short explanation about the idea, concept and design to give potential clients an idea of the process in logo design and to help them understand it.
 
-### Galleryn page
+#### Gallery page
 
-The gallery page displays logo designs, mock ups and real world photos of the logos. These are laid out in a very simple layout of circles to follow the flow of creative waves logo design.
+The gallery page displays logo designs, mock ups and real world photos of the logos. These are laid out in a very simple layout of circles to follow the flow of creative waves logo design. These layout is responsive depending on screen sizes.
 
-### Enquiry page
+#### Enquiry page
 
-The enquiry features a very simple form to fill in name, email, phone number, enquiry type - helps the designer for reason of enquiry,
-message - for the potential client to write a sort paragraph about their enquiry and then the sumbit button.
+The enquiry features a very simple form to fill in with name, email, phone number, enquiry type - helps the client chose the reason of the enquiry, message - for the potential client to write a sort paragraph about their enquiry and then the submit button.
 
-### Success page
+#### Success page
 
-The success page to primaily there to inform the user that their form has successfully be submitted and a response is to be expected.
-
+The success page to primaily there to inform the user that their form has successfully been submitted and a response is to be expected within a time frame. This time frame with either be 24 hours, 48 hours or 3 business working days. 
 
 ## Typography and Colour Palette
 
@@ -170,7 +168,7 @@ A high-contrast palette inspired by waves and creativity
 ## Technologies Used
 
 - This project uses HTML and CSS programming languages.
-- VSCode - I used VScode for my IDE while building the website.
+- Github - VScode was used for the IDE (any can be used) connected to Github for the repository and deployment of website.
 - Bootstrap CDN - The project uses Bootstrap V5.3 a grid system was used to structure the website and make it responsive easily and Bootstrap   CSS 5 which is used on the homepage.
 - Google fonts - The project uses google fonts to import the selection typography for the website.
 - Font Awesome - The project uses font Awesome for social media icons (instagram and facebook).
@@ -179,7 +177,7 @@ A high-contrast palette inspired by waves and creativity
 
 ## Testing
 
-Testing was conducted on the deployed site through github.
+Testing was conducted on the deployed site through Github.
 
 ### Techologies used for testing
 
