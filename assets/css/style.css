@@ -25,14 +25,10 @@ body {
 
 h1,
 h2,
-h3 {
+h3,
+h4 {
    font-family: var(--secondary-font);
    color: var(--primary-color);
-}
-
-h5 {
-    font-family: var(--secondary-font);
-    color: var(--highlight-color);
 }
 
 p {
@@ -78,7 +74,7 @@ p {
     border: solid 2px;
     border-color: var(--secondary-color);
     border-radius: 50%;
-    margin: 10px;
+    margin-top: 20px;
 }
 
 /* Testimonials */
@@ -105,12 +101,17 @@ p {
 
 #contact {
     background-color: #D8F0F0;
-    padding-top: 1rem;
+    padding: 1rem;
 }
 
 #contact .social-links i {
     color:var(--primary-color);
     font-size: 2rem;
+}
+
+#contact .social-links p {
+   color: var(--primary-color);
+   font-size: large;
 }
 
 /* Media queries */
