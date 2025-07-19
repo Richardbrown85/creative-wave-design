@@ -78,6 +78,7 @@ p {
     border: solid 2px;
     border-color: var(--secondary-color);
     border-radius: 50%;
+    margin: 10px;
 }
 
 /* Testimonials */
