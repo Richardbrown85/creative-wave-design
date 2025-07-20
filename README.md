@@ -194,6 +194,11 @@ Testing was conducted on the deployed site through Github.
 
 #### Browser Compatibility
 
+Deployed site works on the following internet browsers
+- Google Chrome
+- Firefox
+- Edge
+
 #### Responsiveness
 
 ### Techologies used for testing
@@ -254,6 +259,8 @@ These are the steps that can be taken to deploy the page on GitHub pages from it
 The deployed site can also be found on the repository page on the right handside under Deployments.
 
 To run locally, you can clone this repository directly into the editor of your choice by pasting git clone into your terminal. This can be found on the main repository page, clicking the code button and copy [Clone https](https://github.com/Richardbrown85/creative-wave-design-website.git). To cut ties with this GitHub repository, type git remote rm origin into the terminal.
+
+## Credits
 
 
 
