@@ -218,6 +218,30 @@ After seeing this error i debugged the other pages for the error and corrected t
 
 ![W3C CSS Validation style.css](<README images/W3C-CSS-Validation-no-error-found.png>)
 
+## Deployment
+
+This project was developed using [VScode](https://code.visualstudio.com/), commited to git and pushed to GitHub using the built in function within VScode.
+
+This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
+
+These are the steps that can be taken to deploy the page on GitHub pages from it's [GitHub repository](https://github.com/Richardbrown85/creative-wave-design-website):
+
+    1. Log into GitHub.
+    2. From the list of repositories on the screen, select Richardbrown85/creative-wave-design-website.
+    3. From the menu items near the top of the page, select Settings.
+    4. Scroll down to the GitHub Pages section.
+    5. Under Source the drop-down menu should display Deploy from a branch
+    6. On selecting Main Branch the page is automatically refreshed, the website is now deployed.
+    7. Scroll back up to the GitHub Pages section to retrieve the link to the deployed website.
+
+The deployed site can also be found on the repository page on the right handside under Deployments.
+
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone into your terminal. This can be found on the main repository page, clicking the code button and copy [Clone https](https://github.com/Richardbrown85/creative-wave-design-website.git). To cut ties with this GitHub repository, type git remote rm origin into the terminal.
+
+
+
+
+
 
 
   
