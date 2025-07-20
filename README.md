@@ -194,12 +194,14 @@ Testing was conducted on the deployed site through Github.
 
 #### Browser Compatibility
 
-Deployed site works on the following internet browsers
+The deployed site works on the following internet browsers
 - Google Chrome
 - Firefox
 - Edge
 
 #### Responsiveness
+
+The deployed site has been tested across different screen sizes for responsiveness such as 320px to 2560px.
 
 ### Techologies used for testing
 
