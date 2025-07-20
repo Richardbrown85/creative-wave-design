@@ -179,6 +179,23 @@ A high-contrast palette inspired by waves and creativity
 
 Testing was conducted on the deployed site through Github.
 
+### Manual testing
+
+#### Functionality
+
+| Test | Test Action | Excepted results | Test results |
+| ---- | ----------- | ---------------- | ------------ |
+| Enquiry form | Test navigation to enquiry form	| Navigation to enquiry form was easily accessible and easy to find | PASS |
+| Test the enquiry form | Does the enquiry form have the right fields for the correct data to be collected for new clients | The enquiry form has the correct  fields such as Name, Email, Phone etc | PASS |
+| Fill out enquiry form | Fill out enquiry form, does it display a succes message or page | Directed to a success page | PASS |
+| Return button (success page) | Does the return button work on the success page properly | The return button directs you back to the home page | PASS |
+| Social media links | Test the social media links to see if they work correctly | Social media links direct you to the correct pages when clicked | PASS |
+| Navigation | Test the navigation back and forth from page to page. For example - home to gallery, home to projects |	Navigation works correctly | PASS |
+
+#### Browser Compatibility
+
+#### Responsiveness
+
 ### Techologies used for testing
 
 - Google Chrome DevTools (Lighthouse)
