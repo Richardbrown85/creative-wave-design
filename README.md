@@ -2,7 +2,7 @@
 
 [View deployed site here](https://richardbrown85.github.io/creative-wave-design-website/)
 
-### Devices mock up
+### Device mock up
 
 ![Device mock ups](<README images/Final-mock-up.webp>)
 
@@ -114,7 +114,7 @@ The project page features three cards that present three main projects creative 
 
 #### Gallery page
 
-The gallery page displays logo designs, mock ups and real world photos of the logos. These are laid out in a very simple layout of circles to follow the flow of creative waves logo design. These layout is responsive depending on screen sizes.
+The gallery page displays logo designs, mock ups and real world photos of the logos. These are in a very simple layout of circles to follow the flow of creative waves logo design. These layout is responsive depending on screen sizes.
 
 #### Enquiry page
 
@@ -163,8 +163,6 @@ A high-contrast palette inspired by waves and creativity
 * Highlight-color: #26BFCC; Scooter
 * Light-highlight-color: #8BD3D9; Morning glory
 
-
-
 ## Technologies Used
 
 - This project uses HTML and CSS programming languages.
@@ -209,7 +207,6 @@ The behaviour of the site was to be excepted. The site responded accordingly fro
 - Google Chrome DevTools (Lighthouse)
 - W3C HTML Validation https://validator.w3.org/
 - W3C CSS Validation https://jigsaw.w3.org/css-validator/
-- Wave web accessibilty evaluation tool https://wave.webaim.org/
 
 ### Lighthouse (Google Chrome DevTools)
 
@@ -247,6 +244,7 @@ Line 55 extra closing li element. Correction maded by deleting it.
 ![custom CSS Vaildation](<README images/CSS-validation-custom.CSS-warnings.png>)
 Two warnings were shown for the testimonial cards background-color and border-color were the same so not needed.
 Deletion of border-color as background-color is needed.
+![custom CSS Validation](<README images/CSS-validation-custom.CSS.png>)
 
 ## Deployment
 
@@ -271,19 +269,21 @@ To run locally, you can clone this repository directly into the editor of your c
 ## Credits
 
 ### Content
-- The welcome paragraph on the homepage was a prompt using ChatGBP.
-- The testimonials on the homeapge were written by clients. 
+- The welcome paragraph on the homepage was created with a prompt using ChatGPT. Here is the link to the prompt [ChatGPT prompt](https://chatgpt.com/c/685c0050-c538-800c-bec5-c3a6a36bc840)
+- The testimonials on the homepage were created with a prompt using ChatGPT. Here is the link to the prompt [ChatGPT prompt](https://chatgpt.com/c/6877541d-bdcc-800c-bd7b-89196be6feed). The names on the testimonials were changed by me to marry up with the clients.
+- The text on the projects cards were written by me. 
 
 ### Media
-- All media used belongs to Creative Wave Design (Me aka Richard Brown)
+- All media used belongs to Creative Wave Design aka Richard Brown
 
 ### Code
  - Custom CSS code was written by me.
- - Some HTML was copied directly from Bootstrap V5.3
+ - Some HTML was imported directly from Bootstrap V5.3 - Grid systems - rows, columns and cards. Navigation bar.
 
 #### Disclaimer
 
-The content of this website is my own piece of work which I am otherwise the sole author. I understand both the meaning and consequences of plagiarism.
+The content of this website is my own piece of work which I am otherwise the sole author. 
+I understand both the meaning and consequences of plagiarism.
 
 
 
