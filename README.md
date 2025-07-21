@@ -228,20 +228,19 @@ The behaviour of the site was to be excepted. The site responded accordingly fro
 
 #### Homepage (index.html) 
 
-![W3C Validation index html](<README images/HTML-validation-on-index.html-error.png>)
-![W3C Validation index html](<README images/HTML-validation-on-index.html-error-amended.png>)
-
-Error was amended by adding a closing element div so there wasn't an open element this means the footer tag could close.
-After seeing this error i debugged the other pages for the error and corrected them.
-
 #### Projects page (projects.html)
+
+#### Gallery page (gallery.html)
+
+#### Enquiry page (enquiry.html)
+
+#### Success page (success.html)
 
 
 ### W3C CSS Validation
 
 #### Style.css (Custom CSS)
 
-![W3C CSS Validation style.css](<README images/W3C-CSS-validation-no-error-found.png>)
 
 ## Deployment
 
