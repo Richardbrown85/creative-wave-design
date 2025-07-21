@@ -227,9 +227,11 @@ The behaviour of the site was to be excepted. The site responded accordingly fro
 ### W3C HTML Validation
 
 #### Homepage (index.html) 
-
+![index.html Validation](<README images/HTML-validation-on-index.html.png>)
 #### Projects page (projects.html)
-
+![projects.html Validation error](<README images/HTML-validation-on-project.html-errors.png>)
+Line 65 needed a closing div element. Correction maded.
+![projects.html Validation](<README images/HTML-validation-on-project.html.png>)
 #### Gallery page (gallery.html)
 
 #### Enquiry page (enquiry.html)
