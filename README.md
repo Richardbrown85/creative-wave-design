@@ -4,7 +4,7 @@
 
 ### Devices mock up
 
-![Devices mock up](<README images/final-mock-up.webp>)
+![Device mock ups](<README images/final-mock-up.webp>)
 
 ### About the website
 
