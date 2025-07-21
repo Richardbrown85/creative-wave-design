@@ -4,7 +4,7 @@
 
 ### Devices mock up
 
-![Device mock ups](<README images/final-mock-up.webp>)
+![Device mock ups](<README images/Final-mock-up.webp>)
 
 ### About the website
 
@@ -77,19 +77,19 @@ design. They are as followed and links provided.
 ## Creative Wave Design wireframe mockups using Balsamiq
 
 ### Home page wireframe
-![Home page wireframe](<README images/homepage-wireframe.png>)
+![Home page wireframe](<README images/Homepage-wireframe.png>)
 
 ### Projects page wireframe
-![Projects page wireframe](<README images/projects-page-wireframe.png>)
+![Projects page wireframe](<README images/Projects-page-wireframe.png>)
 
 ### Gallery page wireframe
-![Gallery page wireframe](<README images/gallery-page-wireframe.png>)
+![Gallery page wireframe](<README images/Gallery-page-wireframe.png>)
 
 ### Enquiry form page wireframe
-![Enquiry page wireframe](<README images/enquiry-form-page-wireframe.png>)
+![Enquiry page wireframe](<README images/Enquiry-form-page-wireframe.png>)
 
 ### Success page wireframe
-![Success page wireframe](<README images/success-page-wireframe.png>)
+![Success page wireframe](<README images/Success-page-wireframe.png>)
 
 ## Features
 
@@ -214,22 +214,22 @@ The behaviour of the site was to be excepted. The site responded accordingly fro
 ### Lighthouse (Google Chrome DevTools)
 
 #### Homepage (index.html) - Desktop
-![Lighthouse test index.html](<README images/lighthouse-test-desktop-index.html.png>)
+![Lighthouse test index.html](<README images/Lighthouse-test-desktop-index.html.png>)
 #### Projects page (projects.html) - Desktop
-![Lighthouse test projects.html](<README images/lighthouse-test-desktop-projects.html.png>)
+![Lighthouse test projects.html](<README images/Lighthouse-test-desktop-projects.html.png>)
 #### Gallery page (gallery.html) - Desktop
-![Lighthouse test gallery.html](<README images/lighthouse-test-desktop-gallery.html.png>)
+![Lighthouse test gallery.html](<README images/Lighthouse-test-desktop-gallery.html.png>)
 #### Enquiry page (enquiry.html) - Desktop
-![Lighthouse test enquiry.html](<README images/lighthouse-test-desktop-enquiry.html.png>)
+![Lighthouse test enquiry.html](<README images/Lighthouse-test-desktop-enquiry.html.png>)
 #### Success page (success.html) - Desktop
-![Lighthouse test success.html](<README images/lighthouse-test-desktop-success.html.png>)
+![Lighthouse test success.html](<README images/Lighthouse-test-desktop-success.html.png>)
 
 ### W3C HTML Validation
 
 #### Homepage (index.html) 
 
-![W3C Validation index html](<README images/html-validation-on-index.html-error.png>)
-![W3C Validation index html](<README images/html-validation-on-index.html-error-amended.png>)
+![W3C Validation index html](<README images/HTML-validation-on-index.html-error.png>)
+![W3C Validation index html](<README images/HTML-validation-on-index.html-error-amended.png>)
 
 Error was amended by adding a closing element div so there wasn't an open element this means the footer tag could close.
 After seeing this error i debugged the other pages for the error and corrected them.
@@ -241,7 +241,7 @@ After seeing this error i debugged the other pages for the error and corrected t
 
 #### Style.css (Custom CSS)
 
-![W3C CSS Validation style.css](<README images/w3c-css-validation-no-error-found.png>)
+![W3C CSS Validation style.css](<README images/W3C-CSS-validation-no-error-found.png>)
 
 ## Deployment
 
