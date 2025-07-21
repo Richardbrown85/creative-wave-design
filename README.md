@@ -25,7 +25,7 @@ The goal of this website is to showcase work but the primary goal of the website
 * Search for high quailty images of work.
 * Examples of reasoning behind concepts and ideas.
 
-# UX
+## UX
 
 ### The ideal client
 

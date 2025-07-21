@@ -6,29 +6,33 @@
 :root {
     --primary-font: "Montserrat", sans-serif;
     --secondary-font: "Over the Rainbow", calligraphy;
-    --primary-color: #058095; /* blue lagoon */
-    --secondary-color: #D8F0F0; /* swans down */
-    --highlight-color: #26BFCC; /* scooter */
-    --light-highlight-color: #8BD3D9; /* morning glory */
+    --primary-color: #058095;
+    /* blue lagoon */
+    --secondary-color: #D8F0F0;
+    /* swans down */
+    --highlight-color: #26BFCC;
+    /* scooter */
+    --light-highlight-color: #8BD3D9;
+    /* morning glory */
 }
 
 
 /* Global styles */
 
 body {
-    background-image:url(../images/background-image.webp);
+    background-image: url(../images/background-image.webp);
     background-size: cover;
     background-attachment: fixed;
     background-color: #f9f9f9;
 }
-        
+
 
 h1,
 h2,
 h3,
 h4 {
-   font-family: var(--secondary-font);
-   color: var(--primary-color);
+    font-family: var(--secondary-font);
+    color: var(--primary-color);
 }
 
 p {
@@ -40,7 +44,8 @@ p {
 }
 
 .section {
-    padding-top: 5rem; /* prevent navbar overlap */
+    padding-top: 5rem;
+    /* prevent navbar overlap */
 }
 
 /* Buttons */
@@ -92,7 +97,8 @@ p {
 /* Enquiry main/form */
 
 #enquiry-main {
-    margin: 2rem; /* 1 rem equals 16px */
+    margin: 2rem;
+    /* 1 rem equals 16px */
 }
 
 #enquiry {
@@ -109,13 +115,13 @@ p {
 }
 
 #contact .social-links i {
-    color:var(--primary-color);
+    color: var(--primary-color);
     font-size: 2rem;
 }
 
 #contact .social-links p {
-   color: var(--primary-color);
-   font-size: large;
+    color: var(--primary-color);
+    font-size: large;
 }
 
 /* Media queries */
@@ -124,12 +130,13 @@ p {
 
 @media screen and (max-width: 576px) {
     body {
-    background-image: none;
-    background-color: #f9f9f9;
+        background-image: none;
+        background-color: #f9f9f9;
     }
-/* Media query to put space between the first two testimonial cards for small devices */   
+
+    /* Media query to put space between the first two testimonial cards for small devices */
     #testimonials .card {
-    margin-bottom: 30px;    
+        margin-bottom: 30px;
     }
 }
 
@@ -138,23 +145,20 @@ p {
 /* Medium devices (tablets, 768px and up */
 @media screen and (min-width: 768px) {
     #testimonials .card-body {
-    min-height: 500px;
+        min-height: 500px;
     }
 }
 
 /* Large devives (small laptops, 992px and up) */
 @media screen and (min-width: 992px) {
     #testimonials .card-body {
-    min-height: 350px;
+        min-height: 350px;
     }
 }
 
 /* XL devices (large laptops, 1200 px and up) */
 @media screen and (min-width: 1200px) {
     #testimonials .card-body {
-    min-height: 260px;    
+        min-height: 260px;
     }
 }
-
-
-
