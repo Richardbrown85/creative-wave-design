@@ -230,13 +230,16 @@ The behaviour of the site was to be excepted. The site responded accordingly fro
 ![index.html Validation](<README images/HTML-validation-on-index.html.png>)
 #### Projects page (projects.html)
 ![projects.html Validation error](<README images/HTML-validation-on-project.html-errors.png>)
-Line 65 needed a closing div element. Correction maded.
+Line 65 needed a closing div element. Correction maded by adding one.
 ![projects.html Validation](<README images/HTML-validation-on-project.html.png>)
 #### Gallery page (gallery.html)
-
+![gallery.html Validation error](<README images/HTML-validation-on-gallery.html-error.png>)
+Line 55 extra closing li element. Correction maded by deleting it.
+![gallery.html Validation](<README images/HTML-validation-on-gallery.html.png>)
 #### Enquiry page (enquiry.html)
-
+![enquiry.html Validation](<README images/HTML-validation-on-enquiry.html.png>)
 #### Success page (success.html)
+
 
 
 ### W3C CSS Validation
