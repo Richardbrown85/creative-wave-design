@@ -239,13 +239,14 @@ Line 55 extra closing li element. Correction maded by deleting it.
 #### Enquiry page (enquiry.html)
 ![enquiry.html Validation](<README images/HTML-validation-on-enquiry.html.png>)
 #### Success page (success.html)
-
-
+![success.html Vaildation](<README images/HTML-validation-on-success.html.png>)
 
 ### W3C CSS Validation
 
 #### Style.css (Custom CSS)
-
+![custom CSS Vaildation](<README images/CSS-validation-custom.CSS-warnings.png>)
+Two warnings were shown for the testimonial cards background-color and border-color were the same so not needed.
+Deletion of border-color as background-color is needed.
 
 ## Deployment
 
