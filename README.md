@@ -208,7 +208,9 @@ The behaviour of the site was to be excepted. The site responded accordingly fro
 - W3C HTML Validation https://validator.w3.org/
 - W3C CSS Validation https://jigsaw.w3.org/css-validator/
 
-### Lighthouse (Google Chrome DevTools)
+### Lighthouse 
+Google Chrome DevTools was used (Lighthouse tab) for desktop and PageSpeed Insights was used for mobile testing. 
+Link for this [PageSpeed Insights](https://pagespeed.web.dev/)
 
 #### Homepage (index.html) - Desktop
 ![Lighthouse test index.html](<README images/Lighthouse-test-desktop-index.html.png>)
@@ -220,6 +222,42 @@ The behaviour of the site was to be excepted. The site responded accordingly fro
 ![Lighthouse test enquiry.html](<README images/Lighthouse-test-desktop-enquiry.html.png>)
 #### Success page (success.html) - Desktop
 ![Lighthouse test success.html](<README images/Lighthouse-test-desktop-success.html.png>)
+
+#### Homepage (index.html) - Mobile
+![PageSpeed Insights](<README images/PageSpeed-Insights-index.html.png>)
+
+[PageSpeed Insights results link](https://pagespeed.web.dev/analysis/https-richardbrown85-github-io-creative-wave-design-website/un2ilgtyum?form_factor=mobile)
+
+##### Argument for 89% performance
+Google fonts and Bootstrap are out of my control. My understanding is that they have been minified (Minification) as much as possible.
+The images on the page have been compressed to a WebP format to as low as possible them without the introducing degradation. The page would only gain a saving of 66KiB if I changed all the images for a better result.
+
+#### Projects page (projects.html) - Mobile
+![PageSpeed Insights](<README images/PageSpeed-Insights-projects.html.png>)
+
+[PageSpeed Insights results link](https://pagespeed.web.dev/analysis/https-richardbrown85-github-io-creative-wave-design-website-projects-html/l5n2zv9lfo?form_factor=mobile)
+
+#### Gallery page (gallery.html) - Mobile
+![PageSpeed Insights](<README images/PageSpeed-Insights-gallery.html.png>)
+
+[PageSpeed Insights results link](https://pagespeed.web.dev/analysis/https-richardbrown85-github-io-creative-wave-design-website-gallery-html/3yi1ny4gwu?form_factor=mobile)
+
+##### Argument for 88% performance
+Google fonts and Bootstrap are out of my control. My understanding is that they have been minified (Minification) as much as possible.
+The images on the page have been compressed to a WebP format to as low as possible them without the introducing degradation. The page would only gain a saving of 66KiB if I changed all the images for a better result.
+
+I could increase the efficent cache lifetimes for static assets (images). My understanding of this is the duration for which a resource is considered valid and can be retrieved from the browser's cache. The images are set to 10 minutes but if the users clear their cache regularly would this make any difference.
+
+#### Enquiry page (enquiry.html) - Mobile
+![PageSpeed Insights](<README images/PageSpeed-Insights-enquiry.html.png>)
+
+[PageSpeed Insights results link](https://pagespeed.web.dev/analysis/https-richardbrown85-github-io-creative-wave-design-website-enquiry-html/o2udhhprle?form_factor=mobile)
+
+#### Success page (sucess.html) - Mobile
+![PageSpeed Insights](<README images/PageSpeed-Insights-success.html.png>)
+
+[PageSpeed Insights results link](https://pagespeed.web.dev/analysis/https-richardbrown85-github-io-creative-wave-design-website-success-html/fiav5th543?form_factor=mobile)
+
 
 ### W3C HTML Validation
 
