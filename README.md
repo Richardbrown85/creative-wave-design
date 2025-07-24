@@ -230,7 +230,7 @@ Link for this [PageSpeed Insights](https://pagespeed.web.dev/)
 
 ##### Argument for 89% performance
 Google fonts and Bootstrap are out of my control. My understanding is that they have been minified (Minification) as much as possible.
-The images on the page have been compressed to a WebP format to as low as possible them without introducing degradation. The page would only gain a saving of 66KiB if I changed all the images for a better result.
+The images on the page have been compressed to a WebP format to as low as possible without introducing degradation. The page would only gain a saving of 66KiB if I changed all the images for a better result.
 
 #### Projects page (projects.html) - Mobile
 ![PageSpeed Insights](<README images/PageSpeed-Insights-projects.html.png>)
@@ -244,7 +244,7 @@ The images on the page have been compressed to a WebP format to as low as possib
 
 ##### Argument for 88% performance
 Google fonts and Bootstrap are out of my control. My understanding is that they have been minified (Minification) as much as possible.
-The images on the page have been compressed to a WebP format to as low as possible them without introducing degradation. The page would only gain a saving of 66KiB if I changed all the images for a better result.
+The images on the page have been compressed to a WebP format to as low as possible without introducing degradation. The page would only gain a saving of 66KiB if I changed all the images for a better result.
 
 I could increase the efficent cache lifetimes for static assets (images). My understanding of this is the duration for which a resource is considered valid and can be retrieved from the browser's cache. The images are set to 10 minutes but if the users clear their cache regularly would this make any difference.
 
